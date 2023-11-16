@@ -1,0 +1,14 @@
+I:\Laborator\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Task_1.exe
+I:\Laborator\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Task_1.deps.json
+I:\Laborator\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+I:\Laborator\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Task_1.dll
+I:\Laborator\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Task_1.pdb
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.dll
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Task_1.dll
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.pdb
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+I:\Laborator\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Task_1.dll
